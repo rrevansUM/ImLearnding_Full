@@ -1,0 +1,2 @@
+"0","n <- ncol(A)"
+"0","x <- matrix(sample(1:10, n, replace = T), nrow = n, ncol = 1)"

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575165527540.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B3988FCE",
+    "lastKnownWriteTime" : 1575424965,
+    "last_content_update" : 1575424965624,
+    "path" : "~/ImRelearnding/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "9,36",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

@@ -1,0 +1,7 @@
+"0","B <- matrix(sample(1:10, 16, replace = TRUE), nrow = 4, ncol = 4)"
+"0",""
+"0","all.equal(t(A %*% B), t(B) %*% t(A))"
+"1","[1]"
+"1"," TRUE"
+"1","
+"

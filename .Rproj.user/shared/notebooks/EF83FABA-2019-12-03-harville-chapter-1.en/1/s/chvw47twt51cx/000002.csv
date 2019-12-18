@@ -1,0 +1,7 @@
+"0","B <- matrix(sampler(), nrow = p, ncol = q)"
+"0",""
+"0","all.equal(t(A + B), t(A) + t(B))"
+"1","[1]"
+"1"," TRUE"
+"1","
+"

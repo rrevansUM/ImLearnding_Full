@@ -1,0 +1,4 @@
+"0","m <- 4"
+"0","n <- 4"
+"0","A <- matrix(sample(1:10, m * n, replace = T), nrow = m, ncol = n)"
+"0","B <- matrix(sample(1:10, m * n, replace = T), nrow = m, ncol = n)"

@@ -1,0 +1,29 @@
+---
+title: What's this all about?
+author: Rich Evans
+date: '2019-12-03'
+slug: what-s-this-all-about
+categories: []
+tags: []
+type: ''
+subtitle: ''
+image: ''
+---
+
+# Ralph Wiggum
+
+First, why Ralph Wiggum? and Why "Learnding"? Watch [this](https://www.youtube.com/watch?v=PKg2ZzPKl2M). If you don't get it then stop reading.
+
+# Why?
+
+This blog is an attempt to (re-)learn some of the maths involved in the wealth of statistics. These are things I've either forgotten about from graduate school or never paid attention to. I am doing this in collaboration with a colleague, Tony Van (or TV for short), and possibly others if they're interested. The idea is to blog about theory, application, and exercises in the course of our book learning, leveraging the power of R to help solve problems or explain/demonstrate concepts.
+
+# The Plan
+
+We've decided to start with David Harville's ["Matrix Algebra from a Statistician's Perspective"](https://www.amazon.com/Matrix-Algebra-Statisticians-Perspective-Harville/dp/038794978X), focusing on Linear Algebra.
+
+![We chose this for it's balance of theoretical and computational approaches to Linear Algebra](/post/2019-12-03-what-s-this-all-about.en_files/harville_matrix_algebra.png)
+
+Eventually we'd like to branch into major topics in statistics, exploring the mathematics that evade, confuse or elude us.
+
+Next post: Chapter 1 of Harville.
